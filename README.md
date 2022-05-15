@@ -5,3 +5,4 @@
 https://aiutarsi.github.io/Vegetable-Fruit-Stat-jp/ におけるデータをスクレイピング・処理するために使用しているコードを置いておく.
 
 
+![alt](img1.png)
